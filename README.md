@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @s92jca126
+- 👋 Hi, I’m Jessica
 - 👀 I’m interested in learning computer languages
-- 🌱 I’m currently learning C++ and SQL
+- 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
